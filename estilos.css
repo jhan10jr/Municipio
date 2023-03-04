@@ -1,5 +1,55 @@
 body {
 
-    background-color: #592202;
+    background-color: #D9D9D9;
+    color: #592202;
 
 }
+
+
+
+img  {
+
+    width:  450px;
+
+}
+
+
+.fauna_florida {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+
+}
+
+.flora_florida {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+
+h1 , h2 , h3 {
+
+    text-align: center;
+}
+
+
+.lugares_turisticos {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.video_florida video {
+
+    display: flex;
+    width: 100%;
+    
+}
+
